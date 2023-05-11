@@ -1,0 +1,6 @@
+C:/Users/justi/CLionProjects/CPlusPlus2/cmake-build-debug/CMakeFiles/CPlusPlus2.dir
+C:/Users/justi/CLionProjects/CPlusPlus2/cmake-build-debug/CMakeFiles/Aufgabe1.dir
+C:/Users/justi/CLionProjects/CPlusPlus2/cmake-build-debug/CMakeFiles/Aufgabe0.dir
+C:/Users/justi/CLionProjects/CPlusPlus2/cmake-build-debug/CMakeFiles/Aufgabe2.dir
+C:/Users/justi/CLionProjects/CPlusPlus2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/justi/CLionProjects/CPlusPlus2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
